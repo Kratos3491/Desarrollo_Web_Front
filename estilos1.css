@@ -3,3 +3,17 @@
     margin: 0;
     box-sizing: border-box;
 }
+body{
+    background-color: lightgrey;
+}
+.encabezado{
+    width: 100%;
+    height: 100px;
+    background-color: blue;
+    font-family: 'Arial';
+    font-size: larger;
+
+    display: grid;
+    place-items: center;
+
+}
